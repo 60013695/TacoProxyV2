@@ -3,7 +3,7 @@
 
 # Updates
 ```
-(Updated 10/12/21): Testing Incognito and Corrosion, will update if it works.
+(Updated 12/15/21): Will test Corrosion and Incognito after finals, will update on 25th
 ```
 # Security
 ### VirusTotal:
@@ -18,7 +18,7 @@ Since Heroku does not support SSL Certificates for free dynos, the next best alt
 CloudFare will attempt to obfuscate email addresses on Taco Proxy to prevent harvesting by bots and spammers
 
 # Speed
-There a lot of speed improvements since Aero Proxy, mainly including:
+There a lot of speed improvements since Taco Proxy, mainly including:
 
 - Brotli Compression
 - Rocket Loader
