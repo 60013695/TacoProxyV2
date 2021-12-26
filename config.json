@@ -3,5 +3,5 @@
     "ssl": false,
     "prefix": "/web/",
     "localAddresses": [],
-    "blockedHostnames": ["allancoding.ga"]
+    "blockedHostnames": ["allancoding.ga","files.000webhost.com"]
 }
