@@ -3,5 +3,5 @@
     "ssl": false,
     "prefix": "/web/",
     "localAddresses": [],
-    "blockedHostnames": ["allancoding.ga","files.000webhost.com","www.coolmathgames.com","coolmathgames.com","shellshockers.club"]
+    "blockedHostnames": ["allancoding.ga", "files.000webhost.com", "www.coolmathgames.com", "shellshockers.club" ]
 }
